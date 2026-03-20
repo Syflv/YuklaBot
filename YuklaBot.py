@@ -8,8 +8,8 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from yt_dlp import YoutubeDL
 
 # --- SOZLAMALAR ---
-API_TOKEN = 'BOT_TOKEN_YAZING'
-ADMIN_ID = 12345678  # O'zingizning ID raqamingizni yozing
+API_TOKEN = '8685709263:AAFoqXZAeV7-C6mlM3UecasV86fWq4hSl0A'
+ADMIN_ID = 2085230699  # O'zingizning ID raqamingizni yozing
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
